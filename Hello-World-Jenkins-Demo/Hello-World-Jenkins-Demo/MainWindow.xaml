@@ -1,0 +1,13 @@
+﻿<Window x:Class="Hello_World_Jenkins_Demo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hello_World_Jenkins_Demo"
+        mc:Ignorable="d"
+        Title="Jenkins Demo from GIT" Height="350" Width="525" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <Button x:Name="button" Content="Jenkins Demo" HorizontalAlignment="Left" Height="38" Margin="141,45,0,0" VerticalAlignment="Top" Width="184" Click="button_Click"/>
+
+    </Grid>
+</Window>
