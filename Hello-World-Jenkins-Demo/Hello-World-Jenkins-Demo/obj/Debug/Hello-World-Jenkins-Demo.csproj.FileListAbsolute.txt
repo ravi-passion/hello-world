@@ -1,0 +1,14 @@
+D:\Monitor_22\JenkinsWork\ForJenkinsDemo\Hello-World-Jenkins-Demo\Hello-World-Jenkins-Demo\bin\Debug\Hello-World-Jenkins-Demo.exe.config
+D:\Monitor_22\JenkinsWork\ForJenkinsDemo\Hello-World-Jenkins-Demo\Hello-World-Jenkins-Demo\bin\Debug\Hello-World-Jenkins-Demo.exe
+D:\Monitor_22\JenkinsWork\ForJenkinsDemo\Hello-World-Jenkins-Demo\Hello-World-Jenkins-Demo\bin\Debug\Hello-World-Jenkins-Demo.pdb
+D:\Monitor_22\JenkinsWork\ForJenkinsDemo\Hello-World-Jenkins-Demo\Hello-World-Jenkins-Demo\obj\Debug\Hello-World-Jenkins-Demo.csprojResolveAssemblyReference.cache
+D:\Monitor_22\JenkinsWork\ForJenkinsDemo\Hello-World-Jenkins-Demo\Hello-World-Jenkins-Demo\obj\Debug\MainWindow.g.cs
+D:\Monitor_22\JenkinsWork\ForJenkinsDemo\Hello-World-Jenkins-Demo\Hello-World-Jenkins-Demo\obj\Debug\App.g.cs
+D:\Monitor_22\JenkinsWork\ForJenkinsDemo\Hello-World-Jenkins-Demo\Hello-World-Jenkins-Demo\obj\Debug\Hello-World-Jenkins-Demo_MarkupCompile.cache
+D:\Monitor_22\JenkinsWork\ForJenkinsDemo\Hello-World-Jenkins-Demo\Hello-World-Jenkins-Demo\obj\Debug\Hello-World-Jenkins-Demo_MarkupCompile.lref
+D:\Monitor_22\JenkinsWork\ForJenkinsDemo\Hello-World-Jenkins-Demo\Hello-World-Jenkins-Demo\obj\Debug\MainWindow.baml
+D:\Monitor_22\JenkinsWork\ForJenkinsDemo\Hello-World-Jenkins-Demo\Hello-World-Jenkins-Demo\obj\Debug\Hello-World-Jenkins-Demo.g.resources
+D:\Monitor_22\JenkinsWork\ForJenkinsDemo\Hello-World-Jenkins-Demo\Hello-World-Jenkins-Demo\obj\Debug\Hello_World_Jenkins_Demo.Properties.Resources.resources
+D:\Monitor_22\JenkinsWork\ForJenkinsDemo\Hello-World-Jenkins-Demo\Hello-World-Jenkins-Demo\obj\Debug\Hello-World-Jenkins-Demo.csproj.GenerateResource.Cache
+D:\Monitor_22\JenkinsWork\ForJenkinsDemo\Hello-World-Jenkins-Demo\Hello-World-Jenkins-Demo\obj\Debug\Hello-World-Jenkins-Demo.exe
+D:\Monitor_22\JenkinsWork\ForJenkinsDemo\Hello-World-Jenkins-Demo\Hello-World-Jenkins-Demo\obj\Debug\Hello-World-Jenkins-Demo.pdb
